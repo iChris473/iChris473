@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iChris473
+- 👋 Hi, I’m Christian Ndubuisi
 - 👀 I’m interested in JavaScript, React, React Native, Node js, Express, AWS
 - 🌱 I’m currently working on full stack web and mobile apps
 - 💞️ I’m looking to collaborate on MERN projects
