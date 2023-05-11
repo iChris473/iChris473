@@ -3,6 +3,7 @@
 - 🌱 I’m currently working on full stack web and mobile apps
 - 💞️ I’m looking to collaborate on MERN projects
 - 📫 you can reach me via email @ christianjoseph473@gmail.com
+- 🕸️ Check out my portfolio website on https://ichris473.github.io/ichris/
 
 <!---
 iChris473/iChris473 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
